@@ -13,7 +13,7 @@ Steam 게임 **HOPE 01**을 한국어로 즐길 수 있게 해주는 개인 제�
 ## 설치 방법
 
 1. [Releases](../../releases)에서 `HOPE01_KR_Patch.zip`을 내려받아 압축을 풉니다.
-   (`HOPE01_KR_Patch.v1.2` 폴더 안에 `HOPE01_KR_Patch.exe`가 들어 있습니다)
+   (`HOPE01_KR_Patch` 폴더 안에 `HOPE01_KR_Patch.exe`가 들어 있습니다)
 2. `HOPE01_KR_Patch.exe`를 더블클릭해서 실행합니다.
 3. 처음 실행하면 안내/주의사항 화면이 뜹니다. 내용을 확인하고 동의하면 프로그램 화면으로 넘어갑니다.
 4. 프로그램이 Steam 라이브러리를 자동으로 찾아 게임 설치 위치와 버전을 확인합니다.
