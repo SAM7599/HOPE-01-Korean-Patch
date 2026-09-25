@@ -10,6 +10,11 @@ Steam 게임 **HOPE 01**을 한국어로 즐길 수 있게 해주는 개인 제�
 - 회피 키 표시가 "조작"으로 잘못 나오던 버그 수정
 - 로고, 낙서, 간판 같은 순수 장식용 그림 글자는 번역하지 않고 원본 그대로 둡니다
 
+<img width="2560" height="1440" alt="4562940_20260925093042_1" src="https://github.com/user-attachments/assets/d85567fd-681d-482c-b9df-1f7b7353f7fb" />
+<img width="2560" height="1440" alt="4562940_20260925093247_1" src="https://github.com/user-attachments/assets/6b0f64cd-8f51-4c52-ab97-0bcdbbc27e96" />
+<img width="2560" height="1440" alt="4562940_20260925093312_1" src="https://github.com/user-attachments/assets/4076d1c7-e879-49c1-9bb3-1f8bcb3a8b42" />
+<img width="2560" height="1440" alt="4562940_20260925094036_1" src="https://github.com/user-attachments/assets/a8742996-008c-4179-96c5-13cbeb2b422a" />
+
 ## 설치 방법
 
 1. [Releases](../../releases)에서 `HOPE01_KR_Patch.zip`을 내려받습니다.
